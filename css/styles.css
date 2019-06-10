@@ -1,0 +1,7 @@
+.btn {
+  border-style: outset;
+  border-color: black;
+  background-color: green;
+  cursor: pointer;
+  margin: 5px;
+}
