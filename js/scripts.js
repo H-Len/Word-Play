@@ -15,3 +15,9 @@ $(function() {
 
     });
 });
+
+
+/* Filter Practice (solution)
+var sentence = "My name is Daniel";
+var newSentence = sentence.split(" ");
+var result = newSentence.filter(word => word.length > 3);
